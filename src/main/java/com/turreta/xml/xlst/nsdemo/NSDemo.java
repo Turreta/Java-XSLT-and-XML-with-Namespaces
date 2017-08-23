@@ -18,7 +18,7 @@ public class NSDemo {
 		Source inputXml = new StreamSource(classLoader.getResource("input.xml").getFile());
 		Source xsl = new StreamSource(classLoader.getResource("transformation.xsl").getFile());
 		Result outputXml = new StreamResult(
-				new File("C:\\Users\\sang018\\Desktop\\test-data\\csdb\\New folder\\output.xml"));
+				new File("C:\\Users\\abc\\Desktop\\test-data\\csdb\\New folder\\output.xml"));
 
 		try {
 			Transformer transformer = TransformerFactory.newInstance().newTransformer(xsl);
