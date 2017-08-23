@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG xmlns="http://turreta.com/default-ns" xmlns:artist="http://turreta.com/artist-ns"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://arvato-systems.de/csdb-si csdb-si-messages.xsd ">
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <CD>
 	    <TITLE>Empire Burlesque</TITLE>
 		<artist:ARTIST>Bob Dylan</artist:ARTIST>
